@@ -32,8 +32,41 @@ Python est un langage de programmation interprété, orienté objet et à typage
 
   pour lancer votre programme vous pouvez faire ```python3 ex1.py```
 
-### Exercice 2: 
-  
-  Le but de cet exercice est de crée une fonction qui prend en paramètre un nombre est qui renvoi ça racine carré.
+### Exercice 2:
+#### nom du fichier: ex2.py
 
-  
+Le but de cet exercice est de crée une fonction qui affiche les chiffres de 9 à 0 (l'odre est important) en utilisant une boucle.
+(il y a plusieurs manière de faire, libre à vous de choisir comment)
+
+### Exercice 3:
+#### nom du fichier ex3.py
+
+Le but de cet exercice est de crée une fonction qui prend en paramètre un nombre et qui renvoi un True ou False si le nombre est pair ou impair.
+
+### Exercice 4:
+#### nom du fichier ex4.py
+
+Le but de cet exercice est de convertir une température en degrés Celsius en Fahrenheit. Mais il faut que la température soit récupérée via l'entrée utiliteur (input).
+
+### Exercice 5:
+#### le nom du fichier ex5.py
+
+Dans cet exercice vous devez crée une fonction qui renvoi True si le mot donné en paramètre est un palindrome sinon False.
+
+#
+
+Bon nous allons commencer à utiliser quelques librairies
+
+#
+
+### Exercice 6:
+
+#### le nom du fichier ex6.py
+
+Le but de cet exercice est d'ajouter dans un tableau 10 nombres genérés aléatoirement entre 1 et 100.
+Ensuite il faudra trié cette liste.
+Enfin affiché chaque élement de la liste mais aussi la liste elle meme.
+
+https://docs.python.org/3/library/random.html  
+https://docs.python.org/3/library/array.html  
+(On peu appliqué plusieurs méthodes sur les array :))
