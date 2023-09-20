@@ -104,3 +104,14 @@ Vous allez faire des tests unitaires en python en utilisant le module unittest
 https://coverage.readthedocs.io/en/7.2.7/
 
 Vous devez avoir 100% de coverage sur le fichier ex8.
+
+
+### Exercice 9:
+
+#### le nom du fichier ex9.py
+
+Le but de cet exercice est de réaliser un jeu du pendu.
+Vous allez avoir une liste remplie de mot.
+A chaque début de partie un mot sera choisi aléatoirement et vous aurez 6 chances avant de perdre la partie.
+
+N'hésitez pas à nous contacter si vous avez des problèmes mais pensez bien à votre architecture de code avant de commencer.
